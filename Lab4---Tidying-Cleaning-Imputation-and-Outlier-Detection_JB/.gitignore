@@ -1,0 +1,20 @@
+#Virtual Enviorment Files
+venv/
+env/
+*.env
+
+
+#IDE / editor settings
+.vscode/
+.idea/
+
+
+
+#Log and Temp files
+*.log
+*.tmp
+
+
+
+
+
